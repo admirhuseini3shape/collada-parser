@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "collada-parser": {
+      "commandName": "Project",
+      "commandLineArgs": "cowboy"
+    }
+  }
+}
