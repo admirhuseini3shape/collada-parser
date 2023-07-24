@@ -1,9 +1,9 @@
-using OpenTK;
 using OpenTK.Graphics.OpenGL;
+using OpenTK.Mathematics;
 
 namespace ColladaParser
 {
-	public static class Matrix
+    public static class Matrix
 	{
 		public static void SetViewMatrix(int location, Vector3 eye, Vector3 target)
 		{

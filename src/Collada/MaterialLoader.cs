@@ -1,12 +1,12 @@
-using System.Linq;
-using System.Xml.Linq;
 using ColladaParser.Collada.Model;
 using ColladaParser.Common;
-using OpenTK;
+using OpenTK.Mathematics;
+using System.Linq;
+using System.Xml.Linq;
 
 namespace ColladaParser.Collada
 {
-	public class MaterialLoader
+    public class MaterialLoader
 	{
 		private static XNamespace ns = "{http://www.collada.org/2005/11/COLLADASchema}";
 

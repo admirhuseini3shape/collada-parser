@@ -3,7 +3,7 @@ using System.Reflection;
 
 namespace ColladaParser.Common
 {
-	public static class SourceLoader
+    public static class SourceLoader
 	{
 		public static Stream AsStream(string path)
 		{

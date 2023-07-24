@@ -2,7 +2,7 @@ using OpenTK.Graphics.OpenGL;
 
 namespace ColladaParser
 {
-	public class Multisampling
+    public class Multisampling
 	{
 		private int width;
 		private int height; 

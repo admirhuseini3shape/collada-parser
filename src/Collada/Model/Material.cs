@@ -1,10 +1,10 @@
+using ColladaParser.Common;
+using OpenTK.Graphics.OpenGL;
+using OpenTK.Mathematics;
 using System;
 using System.IO;
 using System.Linq;
 using System.Text;
-using ColladaParser.Common;
-using OpenTK;
-using OpenTK.Graphics.OpenGL;
 
 namespace ColladaParser.Collada.Model
 {

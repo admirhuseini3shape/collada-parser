@@ -1,6 +1,6 @@
-using System;
 using ColladaParser.Common;
 using OpenTK.Graphics.OpenGL;
+using System;
 
 namespace ColladaParser.Shaders
 {

@@ -3,7 +3,7 @@ using System.Linq;
 
 namespace ColladaParser.Common
 {
-	public static class ArrayParsers
+    public static class ArrayParsers
 	{
 		public static List<float> ParseFloats(string input) 
 		{

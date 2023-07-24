@@ -1,8 +1,8 @@
+using ColladaParser.Collada.Model;
+using ColladaParser.Common;
 using System;
 using System.Linq;
 using System.Xml.Linq;
-using ColladaParser.Collada.Model;
-using ColladaParser.Common;
 
 namespace ColladaParser.Collada
 {

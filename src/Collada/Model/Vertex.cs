@@ -1,10 +1,8 @@
-
-
-using OpenTK;
+using OpenTK.Mathematics;
 
 namespace ColladaParser.Collada.Model
 {
-	public class Vertex 
+    public class Vertex 
 	{	
 		private const int NO_INDEX = -1;
 		
